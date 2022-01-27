@@ -1,4 +1,4 @@
-package de.sdomma.tictactoe
+package com.carvalho.tictactoe
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

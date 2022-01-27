@@ -1,4 +1,4 @@
-package de.sdomma.tictactoe
+package com.carvalho.tictactoe
 
 import org.junit.Test
 
